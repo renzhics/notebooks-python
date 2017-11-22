@@ -40,11 +40,10 @@ $ ipython notebook
 ## 目录
 
 
-- [01. **Python介绍并快速入门**](01-python-tools)
-	 - [01. 什么是Python](01-python-tools/01.01-python-overview.ipynb)
-	 - [02. 为什么要学习Python](01-python-tools/01.02-ipython-interpreter.ipynb)
-	 - [03. 怎么学习](01-python-tools/01.03-ipython-notebook.ipynb)
-	 - [03. Python工具](01-python-tools/01.03-ipython-notebook.ipynb)
+- [01. **Python介绍**](01-python-introduction)
+	 - [01. Python介绍](01-python-introduction/01-python-introduction.ipynb)
+	 - [02. Python安装与快速体验](01-python-tools/01.03-ipython-notebook.ipynb)
+	 - [03. Python实践应用](01-python-tools/01.03-ipython-notebook.ipynb)
 - [02. **初级程序设计**](02-python-essentials)
 - [03. **Python编程语言**](02-python-essentials)
 - [04. **高级程序设计**](02-python-essentials)
