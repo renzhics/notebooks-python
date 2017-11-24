@@ -16,15 +16,13 @@
 
 **提示：** 该项目是用jupyter notebook完成的，Github 加载 `.ipynb` 文件速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/renzhics/notebooks-python/blob/master/index.ipynb) 中查看。
 
----
-
 ## 环境搭建
 
 
 默认安装了 `Python 3.6`，以及相关的三个包 `ipython`， `numpy`， `scipy`，`pandas`。
 
 
-推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
+推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包，安装请参考 [Anaconda安装章节](01-python-tools/02-python-install.ipynb)。
 
 笔记内容使用 `ipython notebook` 来展示。
 
@@ -41,10 +39,10 @@ $ ipython notebook
 
 
 - [01. **Python介绍**](01-python-introduction)
-	 - [01. Python介绍](01-python-introduction/01-python-introduction.ipynb)
-	 - [02. Python安装与快速体验](01-python-tools/01.03-ipython-notebook.ipynb)
-	 - [03. Python实践应用](01-python-tools/01.03-ipython-notebook.ipynb)
-- [02. **初级程序设计**](02-python-essentials)
-- [03. **Python编程语言**](02-python-essentials)
-- [04. **高级程序设计**](02-python-essentials)
-- [05. **Python实践**](02-python-essentials)
+   - [01. Python介绍](01-python-introduction/01-python-introduction.ipynb)
+    - [02. Python安装](01-python-tools/02-python-install.ipynb)
+    - [03. Python应用](01-python-tools/03-python-application.ipynb)
+- [02. **数据类型与动态类型**](02-python-essentials)
+- [03. **数学运算**](02-python-essentials)
+- [04. **语句和控制流**](02-python-essentials)
+- [05. **表达式**](02-python-essentials)
