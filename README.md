@@ -19,7 +19,7 @@
 ## 环境搭建
 
 
-默认安装了 `Python 3.6`，以及相关的三个包 `ipython`， `numpy`， `scipy`，`pandas`。
+默认安装了 `Python 3.6` （课程的所有代码都是基于3.6版本操作），以及相关的三个包 `ipython`， `numpy`， `scipy`，`pandas`。
 
 
 推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包，安装请参考 [Anaconda安装章节](01-python-tools/02-python-install.ipynb)。
@@ -33,16 +33,14 @@ $ ipython notebook
 ```
 来进入 `ipython notebook`。
 
-
-
 ## 目录
 
 
 - [01. **Python介绍**](01-python-introduction)
    - [01. Python介绍](01-python-introduction/01-python-introduction.ipynb)
     - [02. Python安装](01-python-introduction/02-python-install.ipynb)
-    - [03. Python应用](01-python-tools/03-python-application.ipynb)
-- [02. **数据类型与动态类型**](02-python-essentials)
+- [02. **Python编程基础**](02-python-essentials)
+   - [01. 数据类型](01-python-introduction/01-python-introduction.ipynb)
 - [03. **数学运算**](02-python-essentials)
 - [04. **语句和控制流**](02-python-essentials)
 - [05. **表达式**](02-python-essentials)
