@@ -40,7 +40,7 @@ $ ipython notebook
    - [01. Python介绍](01-python-introduction/01-python-introduction.ipynb)
     - [02. Python安装](01-python-introduction/02-python-install.ipynb)
 - [02. **Python编程基础**](02-python-essentials)
-   - [01. 数据类型](01-python-introduction/01-python-introduction.ipynb)
+   - [01. 数据类型](02-python-basics/01-type-of-data.ipynb)
 - [03. **数学运算**](02-python-essentials)
 - [04. **语句和控制流**](02-python-essentials)
 - [05. **表达式**](02-python-essentials)
