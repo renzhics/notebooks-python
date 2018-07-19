@@ -14,7 +14,7 @@
 学习Python你最需要记住的一句话：
 > life is short. use python.
 
-**提示：** 该项目是用jupyter notebook完成的，Github 加载 `.ipynb` 文件速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/renzhics/notebooks-python/blob/master/index.ipynb) 中查看。
+**提示：** 该项目是用jupyter notebook完成的，Github 加载 `.ipynb` 文件速度较慢，建议在 [Nbviewer](https://nbviewer.jupyter.org/github/renzhics/notebooks-python/tree/master/) 中查看。
 
 ## 环境搭建
 
